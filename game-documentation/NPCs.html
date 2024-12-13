@@ -2,22 +2,25 @@
 title: NPCs
 description: 
 published: true
-date: 2024-12-13T22:21:15.835Z
+date: 2024-12-13T22:28:48.085Z
 tags: 
 editor: ckeditor
 dateCreated: 2024-12-11T03:15:43.217Z
 -->
 
 <h1>NPCs</h1>
-<p><strong>NPCs (no player character)s </strong>in SCP Architect X serve many functions for your foundation. Below is the behavior of each type of NPC.<strong> NPCs are meant to be predictable, and have almost no random properties or decisions unless explicitly stated</strong>. A lifecycle is a cycle that is repeated through out the life of the NPC. When a lifecycle fails at any action, it immediately jumps to the failure action.</p>
+<p><strong>NPCs (no player character)s </strong>in SCP Architect X serve many functions for your foundation.</p>
+<p><span class="text-big"><strong>NPCs are meant to be predictable, and have almost no random properties or decisions unless explicitly stated</strong>.</span></p>
+<h1>NPC Behavior</h1>
+<p>Outlined below is the static behavior of every NPC. An NPC's lifecycle is a loop of actions and decisions an NPC will make during it's life time (from hiring to firing). If a lifecycle fails at any action, it will immediately jump to the failure action and then attempt to restart the lifecycle.</p>
 <h2>Scientist</h2>
 <p><strong>Lifecycle:</strong></p>
 <ul>
-  <li>Do Test</li>
-  <li>Do Test</li>
+  <li>Do Test - Always Succeeds</li>
+  <li>Do Test &nbsp;- Always Succeeds</li>
   <li>Go Eat</li>
-  <li>Research</li>
-  <li>Research</li>
+  <li>Research - Always Succeeds</li>
+  <li>Research - Always Succeeds</li>
   <li>Go Sleep</li>
 </ul>
 <p><strong>On Fail</strong></p>
@@ -27,11 +30,11 @@ dateCreated: 2024-12-11T03:15:43.217Z
 <h2>Security</h2>
 <p><strong>Lifecycle:</strong></p>
 <ul>
-  <li>Patrol</li>
-  <li>Patrol</li>
+  <li>Patrol - Always Succeeds</li>
+  <li>Patrol - Always Succeeds</li>
   <li>Go Eat</li>
-  <li>Patrol</li>
-  <li>Patrol</li>
+  <li>Patrol - Always Succeeds</li>
+  <li>Patrol - Always Succeeds</li>
   <li>Go Sleep</li>
 </ul>
 <p><strong>On Fail</strong></p>
