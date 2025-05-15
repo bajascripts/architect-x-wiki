@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2024-12-14T04:29:23.250Z
+date: 2025-05-15T16:48:45.950Z
 tags: 
 editor: ckeditor
 dateCreated: 2024-12-11T03:15:43.217Z
@@ -13,51 +13,19 @@ dateCreated: 2024-12-11T03:15:43.217Z
 <p><span class="text-big"><mark class="pen-red"><strong>NPCs are meant to be predictable, and have limited random properties or decisions unless explicitly stated</strong>.</mark></span></p>
 <h1>NPC Behavior</h1>
 <p>Outlined below is the static behavior of every NPC. An NPC's lifecycle is a loop of actions and decisions an NPC will make during it's life time (from hiring to firing). If a lifecycle fails at any action, it will immediately jump to the failure action and then attempt to restart the lifecycle.</p>
-<h2>Scientist</h2>
-<p><strong>Lifecycle:</strong></p>
-<ul>
-  <li><strong>Random Equally Between:</strong>
-    <ul>
-      <li>Do Test</li>
-      <li>Go Eat</li>
-      <li>Research</li>
-      <li>Go Sleep</li>
-    </ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Steps:</p>
+<ol>
+  <li>IF Scientist, 25% to start doing a test or research.</li>
+  <li>Misc Activity<ol>
+      <li>25% Chance to Eat</li>
+      <li>25% Chance to use Toilet</li>
+      <li>25% Chance to go to sleep</li>
+      <li>25% Chance to Roam</li>
+      <li>&nbsp;</li>
+    </ol>
   </li>
-</ul>
-<p><strong>On Fail</strong></p>
-<ul>
-  <li>Roam</li>
-</ul>
-<h2>Security</h2>
-<p><strong>Lifecycle:</strong></p>
-<ul>
-  <li><strong>Random Equally Between:</strong>
-    <ul>
-      <li>Patrol</li>
-      <li>Go Eat</li>
-      <li>Go Sleep</li>
-    </ul>
-  </li>
-</ul>
-<p><strong>On Fail</strong></p>
-<ul>
-  <li>Roam</li>
-</ul>
-<h2>Class D</h2>
-<p>Class Ds work differently from other NPCs. Class Ds are considered child NPCs. These NPCs often have a parent such as a Scientist or Security NPC. The given parent of a Class D can change at any time. When the Class D is assigned a parent, it's lifecycle is temporarily paused for later resumption.&nbsp;</p>
-<p><strong>Lifecycle:</strong></p>
-<ul>
-  <li><strong>Random:</strong>
-    <ul>
-      <li>Use Toilet</li>
-      <li>Go Sleep</li>
-    </ul>
-  </li>
-</ul>
-<p><strong>On Fail:</strong></p>
-<ul>
-  <li>Nothing</li>
-</ul>
+</ol>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
