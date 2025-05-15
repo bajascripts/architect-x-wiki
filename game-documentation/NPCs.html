@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2025-05-15T16:48:45.950Z
+date: 2025-05-15T17:00:46.470Z
 tags: 
 editor: ckeditor
 dateCreated: 2024-12-11T03:15:43.217Z
@@ -12,20 +12,69 @@ dateCreated: 2024-12-11T03:15:43.217Z
 <p><strong>NPCs (no player character)s </strong>in SCP Architect X serve many functions for your foundation.</p>
 <p><span class="text-big"><mark class="pen-red"><strong>NPCs are meant to be predictable, and have limited random properties or decisions unless explicitly stated</strong>.</mark></span></p>
 <h1>NPC Behavior</h1>
-<p>Outlined below is the static behavior of every NPC. An NPC's lifecycle is a loop of actions and decisions an NPC will make during it's life time (from hiring to firing). If a lifecycle fails at any action, it will immediately jump to the failure action and then attempt to restart the lifecycle.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Steps:</p>
+<p>Outlined below is the static behavior of every NPC. An NPC's lifecycle is a loop of actions and decisions an NPC will make during it's life time (from hiring to firing).</p>
+<h2>Global Steps</h2>
 <ol>
-  <li>IF Scientist, 25% to start doing a test or research.</li>
+  <li>IF Scientist, 75% to start Do a Test or Research.</li>
   <li>Misc Activity<ol>
       <li>25% Chance to Eat</li>
-      <li>25% Chance to use Toilet</li>
-      <li>25% Chance to go to sleep</li>
+      <li>25% Chance to Use Toilet</li>
+      <li>25% Chance to Go to Sleep</li>
       <li>25% Chance to Roam</li>
-      <li>&nbsp;</li>
     </ol>
   </li>
 </ol>
-<p>&nbsp;</p>
+<h2>Do a Test</h2>
+<p>For Scientists Only</p>
+<ol>
+  <li>Find available Class D</li>
+  <li>Move to Class D's Bed (Class D moves to their Bed)</li>
+  <li>Find available SCP (only 1 test per SCP allowed, the SCP will be in an occupied status for the duration of moving to the SCP and the test)</li>
+  <li>Move to SCP</li>
+  <li>Test on SCP (dispenses award on completion)</li>
+  <li>Cleanup</li>
+</ol>
+<h2>Research</h2>
+<p>For Scientists Only, with Pending Researches</p>
+<p>Researches are accumulated after a test. Each test a scientist completes can be researched for 1.5x it's value once.&nbsp;</p>
+<ol>
+  <li>Find available Scientific Desk (in Lab Zone)</li>
+  <li>Moving to Scientific Desk</li>
+  <li>Conduct Research (dispenses award on completion)</li>
+  <li>Cleanup</li>
+</ol>
+<h2>Eat</h2>
+<p>For All NPCs</p>
+<p><i><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></i></p>
+<ol>
+  <li>Find available Cafeteria Table (the table will be in occupied status for duration of moving to the table and eating)</li>
+  <li>Moving to Cafeteria Table</li>
+  <li>Eating</li>
+  <li>Cleanup</li>
+</ol>
+<h2>Use Toilet</h2>
+<p>For All NPCs</p>
+<p><i><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></i></p>
+<ol>
+  <li>Find available Toilet (the toilet will be in occupied status for duration of moving to the toilet and using, Class D's will use their assigned cells while other personnel will use the restroom zones)</li>
+  <li>Moving to Toilet</li>
+  <li>Using Toilet</li>
+  <li>Cleanup</li>
+</ol>
+<h2>Go to Sleep</h2>
+<p>For All NPCs</p>
+<p><i><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></i></p>
+<ol>
+  <li>Find available Bed (the bed will be in occupied status for duration of moving to the bed and sleeping, Class D's will use their assigned cells while other personnel will use the personnel quarters zones)</li>
+  <li>Moving to Bed</li>
+  <li>Sleeping</li>
+  <li>Cleanup</li>
+</ol>
+<h2>Roam</h2>
+<p>For All NPCs</p>
+<ol>
+  <li>Find roam point (a random floor tile is selected)</li>
+  <li>Moving to Roam Point</li>
+  <li>Cleanup</li>
+</ol>
 <p>&nbsp;</p>
