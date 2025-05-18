@@ -11,14 +11,6 @@ dateCreated: 2025-05-04T06:27:06.560Z
 
 New Versioning System
 
-# v0.1.1 | 2025-05-18
-
-New Versioning System
-
-
-
-
-
 # 05/18/2025
 Fixed script crash from dispersing level points
 Fixed sector selection menu getting you stuck if you are in first person
