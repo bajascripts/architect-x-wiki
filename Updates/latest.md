@@ -1,7 +1,3 @@
-## 2025-05-18
-
-New Updates!
-
 ---
 title: Latest Update
 description: 
