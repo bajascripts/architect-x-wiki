@@ -7,6 +7,8 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.7 | 2025-05-19
+\nWidened angled door pathfinding\n
 
 # v0.1.4 | 2025-05-19
 Added a Default Base for New Tycoons
