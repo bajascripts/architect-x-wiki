@@ -9,11 +9,11 @@ dateCreated: 2025-05-04T06:27:06.560Z
 ---
 
 ### v0.1.4 | 2025-05-19
-\nAdded a Default Base for New Tycoons
+Added a Default Base for New Tycoons
 Fixed an issue where ClassDs would fill up datastores.
 Fixed NPC Idling
 Additional camera fixes.
-Performance improvements.\n
+Performance improvements.
 # v0.1.2 | 2025-05-18
 
 New Versioning System
