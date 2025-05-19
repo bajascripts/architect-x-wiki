@@ -8,13 +8,6 @@ editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
 ### v0.1.4 | 2025-05-19
-\nAdded a Default Base for New Tycoons
-Fixed an issue where ClassDs would fill up datastores.
-Fixed NPC Idling
-Additional camera fixes.
-Performance improvements.\n
-
-### v0.1.4 | 2025-05-19
 Added a Default Base for New Tycoons
 Fixed an issue where ClassDs would fill up datastores.
 Fixed NPC Idling
