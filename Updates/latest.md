@@ -2,12 +2,13 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-05-19T00:04:43.059Z
+date: 2025-05-19T00:10:59.471Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
-### v0.1.4 | 2025-05-19
+
+# v0.1.4 | 2025-05-19
 Added a Default Base for New Tycoons
 Fixed an issue where ClassDs would fill up datastores.
 Fixed NPC Idling
