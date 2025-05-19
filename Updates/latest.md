@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.9 | 2025-05-19
+
+Fixed Metal Detector Pathfinding
+Added throttling to pathfinding fails to prevent lag from no paths
+Improved Elevator Pathfinding
+
 # v0.1.8 | 2025-05-19
 Widened angled door pathfinding 2
 
