@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.12 | 2025-05-20
+
+PathfindingV2 between sectors is now implemented
+Placement preview no longer shows node graph attachments
+HUD ui padding fixes
+
 # v0.1.11 | 2025-05-20
 
 Fixed Pathfinding Diagonals
