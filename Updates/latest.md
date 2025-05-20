@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.17 | 2025-05-20
+
+Fixed large server-sided memory leaks regarding pathfinderV2
+Actor objects are properly cleaned up and tycoon world instances are destroyed
+
 # v0.1.16 | 2025-05-20
 
 PathfinderV2 removed extra data passing through actors
