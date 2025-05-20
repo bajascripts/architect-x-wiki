@@ -7,6 +7,15 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.21 | 2025-05-20
+
+Added Number Notifier Icon to Research to show Research Points
+Song UI
+Fixed NPCs not going to their positions at the end of walking paths.
+Improved HUD left/right side texts for more dynamic options
+
+Re-picked many Background Musics
+
 # v0.1.20 | 2025-05-20
 
 Batching system for pathfinding
