@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.16 | 2025-05-20
+
+PathfinderV2 removed extra data passing through actors
+Throttled pathfinding to less than 5ms frame time max
+Implemented Caching of paths
+
 # v0.1.15 | 2025-05-20
 
 PathfinderV2 switched to parallel lua
