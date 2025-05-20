@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.10 | 2025-05-20
+
+PathfinderV2 Implemented
+
 # v0.1.9 | 2025-05-19
 
 Fixed Metal Detector Pathfinding
