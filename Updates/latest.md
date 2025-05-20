@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.20 | 2025-05-20
+
+Batching system for pathfinding
+Vector:ID() Memorized for better performance
+Added Staging to Version Text in HUD
+
 # v0.1.19 | 2025-05-20
 
 Staging Place system
