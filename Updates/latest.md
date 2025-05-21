@@ -7,6 +7,24 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.27 | 2025-05-21
+
+## PathfindingV2
+- Changed PathfindingV2 Grid unit from 2 to 4, reducing node count from 70,688 (All 4 Sectors) to 18,432 (All 4 Sectors). This will hopefully prevent the huge performance drop on servers at the expense of need a space between diagonal hallways. (Every 4 studs is a valid NPC path instead of 2). Diagonal Walls will work like normal but the minimum path width will be 8 studs instead of 4. This will not be changed back to the 2 studs, it's not worth the performance drops.
+- When debug is enabled, the pathfinding node graph will be visible on all 4 sectors. A red cube denotes a blocked node.
+
+- Fixed an issue when translating real world coordinates to pathfindingV2 grid. math.floor switched to math.round
+
+## NPCs
+- Fixed some issues with Class D spawning.
+- Fixed some issues with Scientists finding Class Ds
+- Class Ds will now only use the Toilet, or go to Sleep
+
+**Class Ds are still a bit buggy, I am working out what's going on with them in the coming days.**
+
+## Placement
+- Fixed PlacementV2 not placing consistently
+
 # v0.1.24 | 2025-05-21
 
 Adjusted Pathfinding Heuristic for better accuracy
