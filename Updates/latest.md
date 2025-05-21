@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.24 | 2025-05-21
+
+Adjusted Pathfinding Heuristic for better accuracy
+Added shift click multi select for deletionV2
+Added backwards rotating with new keybind
+Improved PlacementV2 collisions
+
 # v0.1.22 | 2025-05-21
 
 - Fixed Bed Pathfinding
