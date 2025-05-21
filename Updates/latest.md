@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.22 | 2025-05-21
+
+- Fixed Bed Pathfinding
+- New Roaming System
+- Deletion Control V2!
+- Scientific Desk rebranded to Computer Desk and model re-adjusted for better performance
+- Labzone accepts Computer or Standard desk
+
 # v0.1.21 | 2025-05-20
 
 Added Number Notifier Icon to Research to show Research Points
