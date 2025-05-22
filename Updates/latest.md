@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.29 | 2025-05-22
+
+Added Free-Cam for everyone (Shift+P)
+Added mouse overlay with estimate cost/refund and loadicon
+Improved accuracy of the DeletionV2 select box
+Rebalanced income from SCP tests.
+
 # v0.1.28 | 2025-05-22
 
 Started working on an auto-zone system.
