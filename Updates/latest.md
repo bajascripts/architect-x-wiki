@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.33 | 2025-05-22
+
+Floor/Roof Wedges
+
 # v0.1.32 | 2025-05-22
 
 Fixed multi-placing objects going over limit and the cost not reflecting.
