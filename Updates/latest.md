@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.28 | 2025-05-22
+
+Started working on an auto-zone system.
+Fixed being able to place multiple of a max object by using multi place.
+Added a notification when you hit ClassD limit
+Fixed a DeletionV2 bug with objects not removing
+Fixed a UI issue where pressing the notifications keybind also opens feedback.
+
 # v0.1.27 | 2025-05-21
 
 ## PathfindingV2
