@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.34 | 2025-05-24
+
+- New Replication System (Experimental)
+ - NPCs are now rendered on the client, freeing up lots of server resources.
+ - Your tycoon objects will soon be client rendered only.
+
 # v0.1.33 | 2025-05-22
 
 Floor/Roof Wedges
