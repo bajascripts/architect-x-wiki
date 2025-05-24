@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.1.36 | 2025-05-24
+
+- NPCs now respect NPC Render Distance setting
+- Animations now respect NPC animation setting
+- Fixed NPCs disappearing when entering menu
+- Jabby (internal debugging) patches
+
 # v0.1.35 | 2025-05-24
 
 - Fixed Replication System when loading new bases
