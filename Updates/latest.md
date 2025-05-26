@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.3.3 | 2025-05-26
+
+- Improvements to accuracy of auto zoning system
+
 # v0.3.2 | 2025-05-26
 
 - Adjacent room system for SCP containment chambers
