@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.3.1 | 2025-05-26
+
+- Fixed testing profits being 0
+
 # v0.3.0 | 2025-05-26
 
 - Small Pathfinding Node graph fix when deleting objects
