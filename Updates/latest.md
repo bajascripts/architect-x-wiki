@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.3.0 | 2025-05-26
+
+- Small Pathfinding Node graph fix when deleting objects
+- Fixed office roof wedge being upside down
+- New intro scene thanks to racemaniak2000
+- Auto Zoning System, manual zoning has been removed.
+- Fixed issue where Class Ds wouldn't cleanup when you destroy a bed.
+
 # v0.1.36 | 2025-05-24
 
 - NPCs now respect NPC Render Distance setting
