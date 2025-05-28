@@ -7,6 +7,17 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.0 | 2025-05-28
+
+- Internal/UI: new object browser component
+- ECS reworked for better stability
+- Auto zoning removed in favor of a new manual linking system
+- Fixed pathfinding grid errors by using re-construction
+- Fixed bug with research points
+- Class D limiter fixed
+- Fixed testing between sectors (and anything really)
+- Fixed researching
+
 # v0.3.3 | 2025-05-26
 
 - Improvements to accuracy of auto zoning system
