@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.10 | 2025-05-29
+
+- Fixed NPC client models to be transposed on spawn
+- Fixed ClassD spawn issue
+- Fixed diagonal doors
+
 # v0.4.9 | 2025-05-29
 
 - SCP 999 has made an appearance!
