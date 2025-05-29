@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.11 | 2025-05-29
+
+- Fixed pathfinding performance issues
+
 # v0.4.10 | 2025-05-29
 
 - Fixed NPC client models to be transposed on spawn
