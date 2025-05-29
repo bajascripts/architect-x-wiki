@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.8 | 2025-05-29
+
+- Fixed packs not updating object browser
+- Improved accuracy of deletionControlV2
+- Fixed multi-threading after unloading a base
+
 # v0.4.7 | 2025-05-29
 
 - Changed npc simulation cycle to 10 times a second instead of 20 to improve performance.
