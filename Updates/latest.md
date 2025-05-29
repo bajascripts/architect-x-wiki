@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.1 | 2025-05-29
+
+- Fixed unpublished flag for variants
+
 # v0.4.0 | 2025-05-28
 
 - Internal/UI: new object browser component
