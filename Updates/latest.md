@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.6 | 2025-05-29
+
+- Improved NPC finding home station query performance
+
 # v0.4.4 | 2025-05-29
 
 - Switched tycoons to multi-threaded with 16 threads for pathfinding and other expensive calculations.
