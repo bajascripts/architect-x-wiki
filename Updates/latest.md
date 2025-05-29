@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.9 | 2025-05-29
+
+- SCP 999 has made an appearance!
+- SCP 999 will follow people!
+
 # v0.4.8 | 2025-05-29
 
 - Fixed packs not updating object browser
