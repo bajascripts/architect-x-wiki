@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.7 | 2025-05-29
+
+- Changed npc simulation cycle to 10 times a second instead of 20 to improve performance.
+
 # v0.4.6 | 2025-05-29
 
 - Improved NPC finding home station query performance
