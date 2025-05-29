@@ -2,7 +2,7 @@
 title: Road Map
 description: 
 published: true
-date: 2025-05-15T17:14:55.135Z
+date: 2025-05-29T19:07:46.966Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T17:14:55.135Z
@@ -31,10 +31,6 @@ These are features that aren't quite ready but are planned.
 
 ## Sector System [COMPLETE]
 - 4 Sectors you can Build in; Sector 1, Sector 2, Sector 3, and OMEGA
-
-## Zone System [In Progress]
-- Create zones to mark Containment Chambers, Personnal Spaces, and more
-- Requirements for zones to work properly such as requiring desks or other objects
 
 ## Class D Riot [Planned]
 - Class Ds who are neglected and lack of security monitoring will riot
