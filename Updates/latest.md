@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.2 | 2025-05-29
+
+- Removed zoning button that shouldn't be there
+
 # v0.4.1 | 2025-05-29
 
 - Fixed unpublished flag for variants
