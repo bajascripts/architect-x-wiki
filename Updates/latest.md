@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.12 | 2025-05-31
+
+- LIMIT of 50 of each furnishing object has been implemented.
+- Scientist NPC is now limited to a maximum of 20.
+- Security NPC is now limited to a maximum of 10.
+- Pathfinding revised for better performance.
+
 # v0.4.11 | 2025-05-29
 
 - Fixed pathfinding performance issues
