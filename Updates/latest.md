@@ -7,6 +7,17 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.13 | 2025-05-31
+
+- Removed zone view filter
+- SCPs will only follow NPCs
+- Timers added to show NPC progress and cooldowns
+- XP from test is now scaled based on SCP profits
+- SCPs now have cooldowns (shown)
+- Rebalance of many scp profits and costs
+- Level Rebalances
+- Tests now start immediately, no need to go to the ClassD cell.
+
 # v0.4.12 | 2025-05-31
 
 - LIMIT of 50 of each furnishing object has been implemented.
