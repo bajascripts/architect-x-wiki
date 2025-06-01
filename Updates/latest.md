@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.19 | 2025-06-01
+
+- SCP Finances redone to "profits"
+- Added name change in SCPF Management
+- Added perm-deletion of saves
+
 
 # v0.4.18 | 2025-06-01
 
