@@ -7,6 +7,17 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.17 | 2025-06-01
+
+- HUD Fixes
+  - Fixed xp colliding with music/version
+  - You can now see finances of other people's bases
+  - HUD cleans up on other bases
+- Payperiod is now 3 minutes
+- Readjusted profits of all SCPs using formulas for balances
+- Leveling balances and SCPs give higher XP for longer tests
+- Added additional lighting effects to SCP485
+
 # v0.4.16 | 2025-06-01
 
 - Floors are now required for NPCs to walk
