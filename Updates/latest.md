@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.16 | 2025-06-01
+
+- Floors are now required for NPCs to walk
+  - This has added benefit of lowering the amount of nodes required to be queried for paths.
+- Beds can be placed against walls and still work
+  - The pathfinder will attempt to pathfind to the center of the bed rather than bottom edge.
+- Fixed being able to place objects over other
+
 # v0.4.15 | 2025-06-01
 
 - New Grid units option for building!
