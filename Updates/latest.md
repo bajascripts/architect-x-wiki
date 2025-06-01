@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.21 | 2025-06-01
+
+- Added a setting to show/hide timers
+- Fixed office roof wedge
+- Fixed memory leak with collision notifier
+
 # v0.4.20 | 2025-06-01
 
 - In editor mode, you can now see the floors below you when on higher floors
