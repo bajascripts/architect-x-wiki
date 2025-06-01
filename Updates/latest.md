@@ -2,11 +2,12 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-05-22T04:46:25.522Z
+date: 2025-06-01T18:53:31.439Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+
 # v0.4.18 | 2025-06-01
 
 - Fixed collision issue
@@ -20,7 +21,7 @@ dateCreated: 2025-05-04T06:27:06.560Z
 - Payperiod is now 3 minutes
 - Readjusted profits of all SCPs using formulas for balances
 - Leveling balances and SCPs give higher XP for longer tests
-- Added additional lighting effects to SCP485
+- Added additional lighting effects to SCP4854
 
 # v0.4.16 | 2025-06-01
 
