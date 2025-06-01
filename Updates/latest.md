@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.20 | 2025-06-01
+
+- In editor mode, you can now see the floors below you when on higher floors
+- XP scaling added for SCPs
+
 # v0.4.19 | 2025-06-01
 
 - SCP Finances redone to "profits"
