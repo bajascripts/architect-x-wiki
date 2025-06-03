@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.24 | 2025-06-03
+
+- Added the ability to teleport to other bases
+- Added sprint ability
+
 
 # v0.4.22 | 2025-06-03
 
