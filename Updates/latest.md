@@ -7,6 +7,15 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.22 | 2025-06-03
+
+- HUD and build menu has been reworked
+- Added new selection mode to build mode
+- New Tutorial!
+- Fixed an error in findHomeStations
+[[DISCORD:
+Tutorial Added + HUD/Build Menu Rework
+
 # v0.4.21 | 2025-06-01
 
 - Added a setting to show/hide timers
