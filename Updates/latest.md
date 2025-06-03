@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.25 | 2025-06-03
+
+- Added angry skippy when scientists die.
+
 # v0.4.24 | 2025-06-03
 
 - Added the ability to teleport to other bases
