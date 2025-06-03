@@ -2,19 +2,18 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-06-01T18:53:31.439Z
+date: 2025-06-03T01:56:20.724Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+
 # v0.4.22 | 2025-06-03
 
 - HUD and build menu has been reworked
 - Added new selection mode to build mode
 - New Tutorial!
 - Fixed an error in findHomeStations
-[[DISCORD:
-Tutorial Added + HUD/Build Menu Rework
 
 # v0.4.21 | 2025-06-01
 
