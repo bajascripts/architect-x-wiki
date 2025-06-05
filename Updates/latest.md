@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.30 | 2025-06-05
+
+- UI now adjusts to roblox's horrid core gui (that has less features and is bigger btw)
+
 # v0.4.29 | 2025-06-05
 
 - Bottom bar converts to topbar on small screens
