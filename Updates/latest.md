@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.29 | 2025-06-05
+
+- Bottom bar converts to topbar on small screens
+- Adjusted scaling in menus to be more responsive
+
 # v0.4.28 | 2025-06-05
 
 - Mobile Compatibility for Build/Delete/Linking!
