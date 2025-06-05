@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.31 | 2025-06-05
+
+- Adjusted scaling of all menus for mobile and desktop resolutions
+- Made every menu use space more efficiently (filling the entire screen)
+- Switch research UI to use ScrollingFrames instead of custom approach
+
 # v0.4.30 | 2025-06-05
 
 - UI now adjusts to roblox's horrid core gui (that has less features and is bigger btw)
