@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.4.28 | 2025-06-05
+
+- Mobile Compatibility for Build/Delete/Linking!
+
 # v0.4.25 | 2025-06-03
 
 - Added angry skippy when scientists die.
