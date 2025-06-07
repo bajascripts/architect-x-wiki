@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.4 | 2025-06-07
+
+- Barrier decorations added!
+
 # v0.5.3 | 2025-06-07
 
 - Tycoons are now saved immediately after process receipt
