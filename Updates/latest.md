@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.3 | 2025-06-07
+
+- Tycoons are now saved immediately after process receipt
+
 
 # v0.5.2 | 2025-06-07
 
