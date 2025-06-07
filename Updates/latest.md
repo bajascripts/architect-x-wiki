@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.1 | 2025-06-07
+
+- Fixed accumulated profits
+- Fixed chat ui disappearing
+- Fixes tycoons not unloading correctly
+- Tycoon Names may contain hyphens in the middle
+
 # v0.5.0 | 2025-06-07
 
 - Profile Service switched to Document Service for data saving. This may cause issues, please report any issues.
