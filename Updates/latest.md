@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.0 | 2025-06-07
+
+- Profile Service switched to Document Service for data saving. This may cause issues, please report any issues.
+
+Due to this change this update is a minor version change.
+
 # v0.4.31 | 2025-06-05
 
 - Adjusted scaling of all menus for mobile and desktop resolutions
