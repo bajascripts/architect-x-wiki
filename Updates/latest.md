@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.6 | 2025-06-09
+
+- Data Loading Fixes
+
 # v0.5.5 | 2025-06-07
 
 - Fixed view filters with decorations
