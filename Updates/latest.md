@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.7 | 2025-06-10
+
+- Improved linking control to show the objects that can be used to satisfy the requirements.
+
 # v0.5.6 | 2025-06-09
 
 - Data Loading Fixes
