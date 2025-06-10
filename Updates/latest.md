@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.9 | 2025-06-10
+
+- Fixed an issue where tycoon saves did not close out correctly.
+
 # v0.5.8 | 2025-06-10
 
 - Analytics improvements
