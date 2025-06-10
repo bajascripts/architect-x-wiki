@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.10 | 2025-06-10
+
+- Improved user interface error handler page with reconnect button
+- XP bar now shows real number
+- Increased XP earnings from SCP tests
+
 # v0.5.9 | 2025-06-10
 
 - Fixed an issue where tycoon saves did not close out correctly.
