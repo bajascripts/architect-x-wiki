@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.11 | 2025-06-11
+
+- Fixed tycoon unloading wrong ids
+- Fixed tutorial staying put when leaving tycoons
+- Fixed many errors/warns in console
+
 # v0.5.10 | 2025-06-10
 
 - Improved user interface error handler page with reconnect button
