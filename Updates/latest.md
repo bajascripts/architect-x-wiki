@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.13 | 2025-06-11
+
+- Fixed an issue where if you rejoin the same server it would cause a data issue.
+
 # v0.5.12 | 2025-06-11
 
 - Fixed an issue where tycoonID/owner attributes did not clean up causing black-box glitch.
