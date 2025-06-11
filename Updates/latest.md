@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.12 | 2025-06-11
+
+- Fixed an issue where tycoonID/owner attributes did not clean up causing black-box glitch.
+
 # v0.5.11 | 2025-06-11
 
 - Fixed tycoon unloading wrong ids
