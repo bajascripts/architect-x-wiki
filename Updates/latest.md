@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.17 | 2025-06-12
+
+- Added keybinds to build mode for computer
+
 # v0.5.16 | 2025-06-12
 
 - Clean up signals in tycoons
