@@ -7,6 +7,16 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.19 | 2025-06-12
+
+- Fixed a mobile issue where you could not move after going into build mode.
+- Lowered the research costs
+- Lowered XP requirement for level progression.
+- Removed complaints system to reduce confusion as the system will be overhauled soon.
+- Added level one (level up) intro quest.
+- Door Animations
+- Gates
+
 # v0.5.17 | 2025-06-12
 
 - Added keybinds to build mode for computer
