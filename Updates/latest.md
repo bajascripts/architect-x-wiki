@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.16 | 2025-06-12
+
+- Clean up signals in tycoons
+- Added a fix to background music
+- Flipped HUD UI indicator clipping
+- Player saves are saved before leaving (tycoon already did this)
+- Added internal debugging tool dex explorer
+
 # v0.5.14 | 2025-06-11
 
 - Internal fixes to tycoons
