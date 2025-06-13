@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.20 | 2025-06-13
+
+- Timer displays now use 35 stud radius
+- When timer displays are disabled they are no longer internally created (this was a huge issue with client-sided lag)
+- Mobile fix with elevator
+
 # v0.5.19 | 2025-06-12
 
 - Fixed a mobile issue where you could not move after going into build mode.
