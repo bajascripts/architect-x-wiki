@@ -7,6 +7,21 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.21 | 2025-06-13
+
+## Free Weekend Begins!
+
+- Removed displayed timers- pending a different solution, these cause way to much lag
+- Roaming now uses floor tiles as random roaming points
+- Fixed dialog next events
+- Fixed an issue where you could delete other sectors while in your sector
+- You can now open/close build mode on mobile
+- Build mode keybind is a keybind in settings
+- Fixed an issue where you could bypass collision checks with build skins menu
+- Corrected clipping issues with gates
+- Improvements to desk (more angles, hug walls)
+- Added pathfinding failure markers (denoted by an X) for certain pathfinding attempts such as one for tests
+
 # v0.5.20 | 2025-06-13
 
 - Timer displays now use 35 stud radius
