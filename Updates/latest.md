@@ -7,6 +7,21 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v0.5.22 | 2025-06-14
+
+- Tutorial Grammar
+- New Decor (Plants, Shelves, Filing Cabinet)
+- Wall Mounted Decor Placement System!
+- Removed sandbox/hardcode options to prevent confusion as the features are not anywhere near ready yet.
+- Deletion is now restricted to the current floor you are on.
+- Mobile building improvements
+- Entrances with doors will no longer blocks paths to other sectors, the NPCs will use the door correctly that you place.
+- Removed pathfinding grid debug tool, this is pending a better, faster implementation
+- Increased profits by 250% for faster early game progression
+- Sector selection menu will now show the owner's name as the title
+- Fixed a visual bug when leaving deletion mode
+- Fixed usage of maid in react ui components. Hopefully will prevent some memory leaks.
+
 # v0.5.21 | 2025-06-13
 
 ## Free Weekend Begins!
