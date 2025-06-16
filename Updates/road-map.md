@@ -2,7 +2,7 @@
 title: Road Map
 description: 
 published: true
-date: 2025-05-29T19:07:46.966Z
+date: 2025-06-16T00:00:58.302Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T17:14:55.135Z
@@ -19,10 +19,10 @@ These are features that aren't quite ready but are planned.
 1. Chaos Insurgency Raids
 1. More Structure Skins
 1. More Decorations
-1. Interactive SCPs & NPCs
+1. Bigger Servers
 
 
-## Building System Overhaul [In Progress]
+## Building System Overhaul [Completed]
 - Rotate in 45 Degree Angles
 - Angled Walls/Doors
 - Variety of Structures
@@ -30,7 +30,10 @@ These are features that aren't quite ready but are planned.
 - More skins to come later, two skins available now
 
 ## Sector System [COMPLETE]
-- 4 Sectors you can Build in; Sector 1, Sector 2, Sector 3, and OMEGA
+- 2 Sectors you can Build in; Sector 1 and Sector 2; Sector 3 and OMEGA coming at a future date
+
+## Servers Increase to 8 Players [Planned]
+- The timing of this is still unknown as there are massive performance implications for this change. A lot of time will need to be spent micro-optimizing the NPCs and pathfinding to acomplish this.
 
 ## Class D Riot [Planned]
 - Class Ds who are neglected and lack of security monitoring will riot
