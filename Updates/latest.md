@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.0.3 | 2025-06-16
+
+- Fixed elevator deletion issue
+- Hunger/bathroom needs no longer slow NPCs down, instead of the need gets to bad they wont do other tasks (like tests)
+- Test animations are now scaled based on simulation time
+- If a Class D passes out during a test the test will fail
+- Added in-game change log
+
 # v1.0.2 | 2025-06-16
 
 - Fixed Research points reward
