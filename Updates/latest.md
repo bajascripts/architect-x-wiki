@@ -7,6 +7,36 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.0.0 | 2025-06-16
+
+## Entering Beta
+Game will switch to $R50 Paid Access after this free weekend
+
+### NEW NPC Needs system
+- You can see average needs in the staff menu
+  - Food - NPCs need to eat, if they don't they will walk slower
+  - Energy- NPCs need to sleep, if they don't they will walk slower and eventually pass out for 30 seconds
+  - Bathroom - NPCs need to go! if they don't they will walk slower
+
+### Economy Changes
+- NPC costs are now scaled
+- Starting cash for standard mode is now $25,000
+
+### Other Fixes & Improvements
+- Fixed shelf category
+- increased max node search from 5000 to 7500 for pathfinding to improve reliability
+- Decor limit is now 200
+- Fixed mobile bug where the grid units and close buttons are hidden
+- NPC Status Fixes
+- Analytics corrections
+- Fixed deletion bugs when changing floors
+- Fixed elevator deletion
+- Removed Sector 3,Omega to prevent confusion (not added yet, will make an appearance in time)
+- Fixed Architect Doors Z-Fighting
+- Added feedback messages for linking
+- Improved feedback field and it's metrics
+- Improved pathfinding by checking adjacent around start/finish nodes to if the closest start/finish node is blocked. This may result in a npc clipping through walls but, it's more forgiving and less confusing for players overall.
+
 # v0.5.22 | 2025-06-14
 
 - Tutorial Grammar
