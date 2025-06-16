@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.0.2 | 2025-06-16
+
+- Fixed Research points reward
+
 # v1.0.0 | 2025-06-16
 
 ## Entering Beta
