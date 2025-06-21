@@ -7,6 +7,46 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.1.0 | 2025-06-21
+
+## Updates
+- Maintenance Build Pack
+- SCP 500 Added
+- New Intro Screen
+- New Menu Music
+- Mobile mass-placement system
+## Fixes
+- Fixed a huge ECS memory leak
+- Added money indicators to research & tests
+- Store Updates
+- Collision notifiers clean up
+- Small tutorial edit for mobile
+- Improved linking system
+- Sped NPC queries by a lot
+- Timers added to NPC status page
+- Fixed object limiter on load
+- Fixed tablet grid unit UI
+- Improved accuracy of mass-placement system
+
+## Updates
+- Maintenance Build Pack
+- SCP 500 Added
+- New Intro Screen
+- New Menu Music
+- Mobile mass-placement system
+## Fixes
+- Fixed a huge ECS memory leak
+- Added money indicators to research & tests
+- Store Updates
+- Collision notifiers clean up
+- Small tutorial edit for mobile
+- Improved linking system
+- Sped NPC queries by a lot
+- Timers added to NPC status page
+- Fixed object limiter on load
+- Fixed tablet grid unit UI
+- Improved accuracy of mass-placement system
+
 # v1.0.3 | 2025-06-16
 
 - Fixed elevator deletion issue
