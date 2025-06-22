@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.1.1 | 2025-06-22
+
+- Maintenance pack fixes and adjustments
+- Fixed collisions for build mode on desktop and mobile
+- Added error catch to SCP profits tab
+- Improved memory cleanup of ECS
+
 
 # v1.1.0 | 2025-06-21
 
