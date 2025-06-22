@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.1.2 | 2025-06-22
+
+Hot fixes to ECS cleanup
+
 # v1.1.1 | 2025-06-22
 
 - Maintenance pack fixes and adjustments
