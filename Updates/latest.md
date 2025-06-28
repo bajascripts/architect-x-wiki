@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.2 | 2025-06-28
+
+- Fixed a delete object bug
+- Interface Colors Refreshed
+
 # v1.2.1 | 2025-06-28
 
 - Pathfinding performance improvements
