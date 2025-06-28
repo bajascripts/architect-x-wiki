@@ -2,21 +2,16 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-06-21T16:54:56.356Z
+date: 2025-06-28T20:02:55.752Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
-# v1.2.5 | 2025-06-28
+
+# v1.2.3-5 | 2025-06-28
 
 - Corrected bell sound radius
-
-# v1.2.4 | 2025-06-28
-
 - Added Gems to Store
-
-# v1.2.3 | 2025-06-28
-
 - New Collisions Gamepass
 
 # v1.2.2 | 2025-06-28
