@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.1 | 2025-06-28
+
+- Pathfinding performance improvements
+
 # v1.2.0 | 2025-06-28
 
 ## Updates
