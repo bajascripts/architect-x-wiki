@@ -7,6 +7,23 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.0 | 2025-06-28
+
+## Updates
+- NEW SCP 426
+- NEW SCP 513
+- Powerful new SCP Effects system on NPCs (426,513 implemented more to come)
+- New Background Music!
+## Fixes
+- Added "Max Placed" text to objects in the build menu
+- Error catchers for haptics
+- Fixed SCP behavior timings
+- Improve mobile placement by delaying before mass placement activates
+- Misc. Fixes
+- Removed path failed markers, pending a different system
+- Removed pathfinding blocks on all objects except walls
+- Economy Adjustments
+
 # v1.1.2 | 2025-06-22
 
 Hot fixes to ECS cleanup
