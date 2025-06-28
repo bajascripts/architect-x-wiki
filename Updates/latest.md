@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.3 | 2025-06-28
+
+- New Collisions Gamepass
+
 # v1.2.2 | 2025-06-28
 
 - Fixed a delete object bug
