@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.8 | 2025-06-29
+
+- x2 Testing profits Pass
+
 # v1.2.7 | 2025-06-29
 
 - Improved performance by 10x by caching ECS queries. You should see better Client FPS and better Server FPS.
