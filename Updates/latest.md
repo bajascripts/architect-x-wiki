@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.7 | 2025-06-29
+
+- Improved performance by 10x by caching ECS queries. You should see better Client FPS and better Server FPS.
+- Improved pathfinding speed by implementing caching
+- Store Improvements
+- Increased tolerance for collision checks
+
 
 # v1.2.5 | 2025-06-28
 
