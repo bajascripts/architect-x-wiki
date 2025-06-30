@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.11 | 2025-06-30
+
+- Adjusted NPC Roaming to no longer use pathfinding
+
 # v1.2.9 | 2025-06-29
 
 - Fixed a critical bug with test profits
