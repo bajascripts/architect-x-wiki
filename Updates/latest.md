@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.15 | 2025-07-01
+
+- Roaming Fixes
+
 # v1.2.13 | 2025-07-01
 
 - Roaming & Behavior Improvements for NPCs
