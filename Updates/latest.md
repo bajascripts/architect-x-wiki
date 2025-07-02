@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.17 | 2025-07-02
+
+- Pathfinding Improvements
+- Fixed Roaming causing NPCs to get stuck
+
 # v1.2.16 | 2025-07-02
 
 - Buying & Selling Fixes
