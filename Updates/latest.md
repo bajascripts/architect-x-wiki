@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.18 | 2025-07-02
+
+- Re-Wrote ObjectService.ts to fix buying/selling objects.
+- Improved mobile camera
+
 # v1.2.17 | 2025-07-02
 
 - Pathfinding Improvements
