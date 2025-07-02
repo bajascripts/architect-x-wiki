@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.16 | 2025-07-02
+
+- Buying & Selling Fixes
+- NPC Stability Improvements
+
 # v1.2.15 | 2025-07-01
 
 - Roaming Fixes
