@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.2.21 | 2025-07-03
+
+- Fixed NPC needs related too passing out, this system has been removed and instead will prevent NPCs from being productive.
+
 # v1.2.19 | 2025-07-03
 
 - Fixed an issue where NPCs wouldn't address their needs if an SCP killed an NPC.
