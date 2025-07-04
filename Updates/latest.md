@@ -2,11 +2,19 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-06-28T20:03:04.173Z
+date: 2025-07-04T19:12:40.712Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+
+# v1.2.25 | 2025-07-03
+
+- Removed pay period system for clarity- you now directly get your profits
+- Added chat tags for alpha/beta testers
+- Fixed pathfinding for barriers
+- SCP 999 roaming finished
+
 # v1.2.21 | 2025-07-03
 
 - Fixed NPC needs related too passing out, this system has been removed and instead will prevent NPCs from being productive.
