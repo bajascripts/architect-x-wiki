@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.2 | 2025-07-05
+
+- Updated React (UI)
+- NPCs can now roam through doors and a better fix to prevent NPCs from roaming into 173 has been implemented.
+- Fixed elevator causing pathfinding bugs
+
 
 # v1.3.1 | 2025-07-05
 
