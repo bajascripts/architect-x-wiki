@@ -2,16 +2,31 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-07-04T19:12:40.712Z
+date: 2025-07-05T18:39:00.532Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+
 # v1.3.1 | 2025-07-05
 
 - NPCs no longer roam through doors
   - this addresses wandering into containment zones
 
+# v1.3.0 | 2025-07-05
+## Content
+- SCP 173 (you'll want a containment cell!)
+   - SCP 173 has a chance to randomly kill exposed NPCs (be careful!)
+   - SCP 173 REQUIRES 1 Scientist, 3 Class D, AND 1 Security to Test
+   - A more clear way of relaying this to the user is coming soon, for now its in the description of the SCP.
+- NeoCore Build Skin
+## Fixes
+- Some replication optimizations
+- Lighting optimizations
+- Reduced lag in many scenarios for lower-end devices
+- Added global shadows property for performance
+- Mobile Camera improvements
+- Fixed mobile placement placing twice
 
 # v1.2.25 | 2025-07-03
 
