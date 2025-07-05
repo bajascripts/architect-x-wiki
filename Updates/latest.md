@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.1 | 2025-07-05
+
+- NPCs no longer roam through doors
+  - this addresses wandering into containment zones
+
 
 # v1.2.25 | 2025-07-03
 
