@@ -7,6 +7,15 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.7 | 2025-07-06
+
+- Fixed elevator issues
+- Cleaned up notifications to not show as many
+- Wedges can now be collided 2 times to allow for both wedges to be placed in a single tile
+- Fixes for NeoCore Pack
+- Cleaned up and fixed main menu
+- HUD improvements
+
 # v1.3.2 | 2025-07-05
 
 - Updated React (UI)
