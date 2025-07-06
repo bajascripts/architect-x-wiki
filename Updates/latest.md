@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.10 | 2025-07-06
+
+- Pathfinding Grid is now  2 studs from 4 (4x more accurate). This means NPCs can now navigate diagonal cut-off floors.
+- This may put extra stress on the server, however, initial testing has been promising.
+
 # v1.3.8 | 2025-07-06
 
 - UI Tweaks
