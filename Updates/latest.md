@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.8 | 2025-07-06
+
+- UI Tweaks
+- Fixed notification-drawer on mobile
+- Major Economy Tweaks (more revenue, exponential progression)
+
 # v1.3.7 | 2025-07-06
 
 - Fixed elevator issues
