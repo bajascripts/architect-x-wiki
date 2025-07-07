@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2025-07-07T02:59:56.088Z
+date: 2025-07-07T14:55:37.507Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-11T03:15:43.217Z
@@ -46,15 +46,6 @@ $$
 \text{total}(c, n) = \mathrm{round}\left(c \cdot \frac{1.4^n - 1}{1.4 - 1}\right)
 $$
 
-## Graphs
-
-These following graphs are for the prices of NPC's for each type of NPC.
-
-### Security price graph
-<iframe src="https://www.desmos.com/calculator/3ayynnuwf8?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
-
-### Scientist price graph
-<iframe src="https://www.desmos.com/calculator/choujqm7sf?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 # NPC Behavior
 
