@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2025-07-07T02:36:50.789Z
+date: 2025-07-07T02:44:32.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-11T03:15:43.217Z
@@ -31,6 +31,11 @@ where
 $c$ - base cost (1000 for Scientist and 1500 for security)
 
 $n$ - number of NPCs (of whichever type you're buying) that you already have
+
+In this provided function, it's raising 1.4 (the scaling factor / growth rate) to the $n$ and then multiplying it by $c$ followed by rounding it to a whole number
+
+Think of $c$ as the base cost,
+and $1.4^n$ as the inflation multiplier that increases the price each time you buy another one.
 
 # NPC Behavior
 
