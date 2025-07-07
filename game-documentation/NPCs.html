@@ -2,23 +2,25 @@
 title: NPCs
 description: 
 published: true
-date: 2025-06-14T21:32:11.739Z
+date: 2025-07-07T02:25:10.010Z
 tags: 
 editor: ckeditor
 dateCreated: 2024-12-11T03:15:43.217Z
 -->
 
 <h1>NPCs</h1>
-<p><strong>NPCs (no player character)s </strong>in SCP Architect X serve many functions for your foundation.</p>
+<p><strong>NPCs (non-player character)s </strong>in SCP Architect X serve many functions for your foundation.</p>
 <p><span class="text-big"><mark class="pen-red"><strong>NPCs are meant to be predictable, and have limited random properties or decisions unless explicitly stated</strong>.</mark></span></p>
 <h2><span class="text-big">NPC Needs</span></h2>
 <p>&nbsp;</p>
+<h1>NPC Prices</h1>
+<p>TO BE DONE</p>
 <h1>NPC Behavior</h1>
 <p>Outlined below is the static behavior of every NPC. An NPC's lifecycle is a loop of actions and decisions an NPC will make during it's life time (from hiring to firing).</p>
 <h2>Global Steps</h2>
 <ol>
   <li>IF Scientist, 75% to start Do a Test or Research.</li>
-  <li>Misc Activity<ol>
+  <li>Miscellaneous Activity<ol>
       <li>25% Chance to <strong>Eat</strong></li>
       <li>25% Chance to <strong>Use Toilet</strong></li>
       <li>25% Chance to <strong>Go to Sleep</strong></li>
@@ -26,8 +28,7 @@ dateCreated: 2024-12-11T03:15:43.217Z
     </ol>
   </li>
 </ol>
-<h3>Do a Test</h3>
-<p>For Scientists Only</p>
+<h3>Do a Test (Scientists only)</h3>
 <ol>
   <li>Find available Class D (if a Class D is sleeping, they can't be chosen, any other tasks will be interrupted)</li>
   <li>Move to Class D's Bed (Class D moves to their Bed)</li>
@@ -36,8 +37,7 @@ dateCreated: 2024-12-11T03:15:43.217Z
   <li>Test on SCP (dispenses award on completion)</li>
   <li>Cleanup</li>
 </ol>
-<h3>Research</h3>
-<p>For Scientists Only, with Pending Researches</p>
+<h3>Research (Scientists <i>with pending researches</i> only)</h3>
 <p>Researches are accumulated after a test. Each test a scientist completes can be researched for 1.5x it's value once.&nbsp;</p>
 <ol>
   <li>Find available Scientific Desk (in Lab Zone)</li>
@@ -45,8 +45,7 @@ dateCreated: 2024-12-11T03:15:43.217Z
   <li>Conduct Research (dispenses award on completion)</li>
   <li>Cleanup</li>
 </ol>
-<h3>Eat</h3>
-<p>For All NPCs</p>
+<h3>Eat (All NPC's)</h3>
 <p><i><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></i></p>
 <ol>
   <li>Find available Cafeteria Table (the table will be in occupied status for duration of moving to the table and eating)</li>
@@ -54,8 +53,7 @@ dateCreated: 2024-12-11T03:15:43.217Z
   <li>Eating</li>
   <li>Cleanup</li>
 </ol>
-<h3>Use Toilet</h3>
-<p>For All NPCs</p>
+<h3>Use Toilet (All NPC's)</h3>
 <p><i><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></i></p>
 <ol>
   <li>Find available Toilet (the toilet will be in occupied status for duration of moving to the toilet and using, Class D's will use their assigned cells while other personnel will use the restroom zones)</li>
@@ -63,8 +61,7 @@ dateCreated: 2024-12-11T03:15:43.217Z
   <li>Using Toilet</li>
   <li>Cleanup</li>
 </ol>
-<h3>Go to Sleep</h3>
-<p>For All NPCs</p>
+<h3>Go to Sleep (All NPC's)</h3>
 <p><i><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></i></p>
 <ol>
   <li>Find available Bed (the bed will be in occupied status for duration of moving to the bed and sleeping, Class D's will use their assigned cells while other personnel will use the personnel quarters zones)</li>
@@ -72,8 +69,7 @@ dateCreated: 2024-12-11T03:15:43.217Z
   <li>Sleeping</li>
   <li>Cleanup</li>
 </ol>
-<h3>Roam</h3>
-<p>For All NPCs</p>
+<h3>Roam (All NPC's)</h3>
 <ol>
   <li>Find roam point (a random floor tile is selected)</li>
   <li>Moving to Roam Point</li>
