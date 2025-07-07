@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2025-07-07T02:31:01.989Z
+date: 2025-07-07T02:36:50.789Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-11T03:15:43.217Z
@@ -18,7 +18,19 @@ dateCreated: 2024-12-11T03:15:43.217Z
 
 # NPC Prices
 
-TO BE DONE
+Prices currently depend on the number of NPC's of a certain type that you own and the base price of whichever one your purchasing.
+
+## Math
+
+The prices for NPC's are determined by this
+
+$f(c, n) = \mathrm{round}(c \cdot 1.4^n)$
+
+where
+
+$c$ - base cost (1000 for Scientist and 1500 for security)
+
+$n$ - number of NPCs (of whichever type you're buying) that you already have
 
 # NPC Behavior
 
