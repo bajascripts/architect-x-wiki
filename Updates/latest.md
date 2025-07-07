@@ -7,6 +7,17 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.11 | 2025-07-07
+
+## Update
+- New Blast door (with research) to help you transition between sectors
+
+## Fixes
+- Improved replication performance
+- Improved NPC performance when setting simulation distance
+- Removed NPC Render distance in favor of simulation distance
+- Main Menu Fixes
+
 # v1.3.10 | 2025-07-06
 
 - Pathfinding Grid is now  2 studs from 4 (4x more accurate). This means NPCs can now navigate diagonal cut-off floors.
