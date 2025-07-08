@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.13 | 2025-07-08
+
+- SCP 173 will not kill while Scientists walk to it for a test.
+
 # v1.3.11 | 2025-07-07
 
 ## Update
