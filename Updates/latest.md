@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.16 | 2025-07-09
+
+- Fixed being able to place objects outside your base.
+- Blast Doors properly block NPCs
+- Misc. UI Fixes and improvements
+
 # v1.3.15 | 2025-07-09
 
 - More Max Saves Game-pass
