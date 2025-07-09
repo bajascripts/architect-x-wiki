@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.15 | 2025-07-09
+
+- More Max Saves Game-pass
+- Economy Balances
+
 # v1.3.14 | 2025-07-08
 
 - Fixed a critical bug with build objects being built outside of bases.
