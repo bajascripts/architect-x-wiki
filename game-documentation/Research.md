@@ -2,7 +2,7 @@
 title: Research
 description: Research in SCP Architect X
 published: true
-date: 2025-07-10T19:38:00.825Z
+date: 2025-07-10T19:41:57.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T00:27:00.895Z
@@ -16,7 +16,7 @@ Research in SCP Architect X allows players to unlock new features within the gam
 
 The Research Tree is accessible by the microscope icon in the bottom left-center of the toolbar. It displays the amount of research stars you have and the features you can (or have) unlocked.
 
-![](/research.png)
+![research_tree.gif](/medal_cihhd3udjs.gif)
 
 The Research Tree as of V0.4.13
 
