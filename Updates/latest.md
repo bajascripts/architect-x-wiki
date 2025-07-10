@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.19 | 2025-07-10
+
+- You are now unable to place walls too close to SCPs
+
 # v1.3.18 | 2025-07-10
 
 - Pathfinding is offloaded to Roblox's pathfinding service when possible to save performance.
