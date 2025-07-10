@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.18 | 2025-07-10
+
+- Pathfinding is offloaded to Roblox's pathfinding service when possible to save performance.
+- When finding Toilets, Cafeteria Tables, and Beds, NPCs will now prefer the closest. (Except assigned beds for ClassD and SCPS)
+
 # v1.3.16 | 2025-07-09
 
 - Fixed being able to place objects outside your base.
