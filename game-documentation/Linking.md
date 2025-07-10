@@ -2,7 +2,7 @@
 title: Linking
 description: 
 published: true
-date: 2025-07-10T19:47:33.904Z
+date: 2025-07-10T19:50:31.777Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-11T02:32:16.238Z
@@ -52,6 +52,14 @@ There are currently five isolate objects.
 4.  The metal detector. This object is only for security measures and for now does not require linking.
 5.  The elevator. This object is only to move personnel and class D at the moment and does not require linking.
 
+## Examples of linking
+
+### Linking an old bed
+![](https://i.imgur.com/9cAzcC2.gif)
+### Linking an SCP
+![](https://i.imgur.com/17Tpf9T.gif)
+### Linking a cafeteria table
+![](https://i.imgur.com/RFLAZHt.gif)
 ## Trivia
 
 The first version of linking was instead called “Zoning” which had objects placed inside zones, but the idea was scrapped.
