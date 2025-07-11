@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.24 | 2025-07-11
+
+- Placement Collisions Fixes
+- Object  validity adjustments
+- Pathfinding Improvements
+- Main menu fixes
+
 # v1.3.23 | 2025-07-11
 
 - Added codes API in store
