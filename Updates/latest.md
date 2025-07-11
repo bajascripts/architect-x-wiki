@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.21 | 2025-07-11
+
+- Fixed a critical pathfinding issue
+- Fixed a critical NPC issue where they would freeze
+
 # v1.3.20 | 2025-07-11
 
 - Fixed an issue where NPCs would "error out" and freeze
