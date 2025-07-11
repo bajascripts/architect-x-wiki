@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.20 | 2025-07-11
+
+- Fixed an issue where NPCs would "error out" and freeze
+- Improved collisions
+- Fixed an issue where NPCs would roam into angled walls
+- Roblox pathfinding now hybrid-used for cross-sector travel
+
 # v1.3.19 | 2025-07-10
 
 - You are now unable to place walls too close to SCPs
