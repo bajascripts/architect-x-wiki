@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.23 | 2025-07-11
+
+- Added codes API in store
+
 # v1.3.21 | 2025-07-11
 
 - Fixed a critical pathfinding issue
