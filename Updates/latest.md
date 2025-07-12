@@ -7,6 +7,22 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.0 | 2025-07-12
+
+## Updates
+- SCP 004
+- SCP 109
+- SCP 034
+- Sector 3
+- Codes in Shop
+## Fixes
+- Many NPC fixes
+- Improvements to linking
+- Research tree improved and cleaned up for a much better look and functionality
+- Quick settings button added
+- Staff moved into SCPF management
+- Improvements to the UI
+
 # v1.3.28 | 2025-07-12
 
 - Minor improvement to linking where when placing an object the object is auto-linked
