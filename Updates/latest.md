@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.28 | 2025-07-12
+
+- Minor improvement to linking where when placing an object the object is auto-linked
+- Lowered SCP collision boxes and improved them
+- Fixed confusion when deleting SCPs that are moving
+
 # v1.3.27 | 2025-07-12
 
 - More NPC Fixes
