@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.3 | 2025-07-12
+
+- Improved pathfinding error notifications to be more accurate and less false notifications
+- Fixed a critical issue where a previous failed pathfinding attempt would cause a successful one to fail
+- Fixed an issue where an NPC's true name would not show on the status page
+
 # v1.4.2 | 2025-07-12
 
 - Further collision tweaks
