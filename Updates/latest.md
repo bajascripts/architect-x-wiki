@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.2 | 2025-07-12
+
+- Further collision tweaks
+- NPC experience adjustments
+- Security receive experience from tests
+
 # v1.4.0 | 2025-07-12
 
 ## Updates
