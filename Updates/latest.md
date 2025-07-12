@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.26 | 2025-07-12
+
+- Fixed NPCs
+
 # v1.3.25 | 2025-07-11
 
 - Improved the selection process of nearest tables ,toilets, and beds.
