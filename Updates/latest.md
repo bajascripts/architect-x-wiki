@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.3.27 | 2025-07-12
+
+- More NPC Fixes
+
 # v1.3.26 | 2025-07-12
 
 - Fixed NPCs
