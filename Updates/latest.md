@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.8 | 2025-07-13
+
+- UI Fixes & Improvements
+- Bomb system added to store!
+- 7 new songs added!
+
 # v1.4.7 | 2025-07-13
 
 - Added update status UI
