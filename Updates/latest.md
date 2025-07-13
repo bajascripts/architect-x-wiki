@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.5 | 2025-07-13
+
+- Tutorial fixed
+
 # v1.4.4 | 2025-07-13
 
 - New pack preview system
