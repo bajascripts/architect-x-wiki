@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.4 | 2025-07-13
+
+- New pack preview system
+- New selection system (with move tool!)
+- Menu keybind remapped as move keybind (no menu keybind anymore)
+- Main menu save usage % fixed
+
 # v1.4.3 | 2025-07-12
 
 - Improved pathfinding error notifications to be more accurate and less false notifications
