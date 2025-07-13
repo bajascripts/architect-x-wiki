@@ -7,6 +7,16 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.6 | 2025-07-13
+
+- Fixed descriptions in object browser
+- Required safe humanoid before euclid in research tree
+- Added chat tip system
+- Added linking control in selection UI
+- Added profit/xp per test, in selection UI
+- Level up now gives 1 research star, every 5 levels you get 2 research stars.
+- Drawn linking lines are only shown in linking mode
+
 # v1.4.5 | 2025-07-13
 
 - Tutorial fixed
