@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.7 | 2025-07-13
+
+- Added update status UI
+
 # v1.4.6 | 2025-07-13
 
 - Fixed descriptions in object browser
