@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.11 | 2025-07-14
+
+- Added SCP Exposure in NPC Status page
+- SCP 500 will cure all exposures restore health.
+
 # v1.4.10 | 2025-07-14
 
 - Lowered tick rate of task processor for better NPC performance
