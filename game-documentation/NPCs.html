@@ -2,9 +2,9 @@
 title: NPCs
 description: 
 published: true
-date: 2025-07-07T02:45:06.516Z
+date: 2025-07-14T20:15:34.741Z
 tags: 
-editor: code
+editor: ckeditor
 dateCreated: 2024-12-11T03:15:43.217Z
 -->
 
@@ -16,71 +16,15 @@ dateCreated: 2024-12-11T03:15:43.217Z
 <p>Prices currently depend on the number of NPC's of a certain type that you own and the base price of whichever one your purchasing.</p>
 <h2 class="toc-header" id="math"> Math</h2>
 <p>The prices for NPC's are determined by this</p>
-<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>c</mi><mo separator="true">,</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mi mathvariant="normal">r</mi><mi mathvariant="normal">o</mi><mi mathvariant="normal">u</mi><mi mathvariant="normal">n</mi><mi mathvariant="normal">d</mi></mrow><mo stretchy="false">(</mo><mi>c</mi><mo>⋅</mo><mn>1.</mn><msup><mn>4</mn><mi>n</mi></msup><mo stretchy="false">)</mo></mrow>f(c, n) = \mathrm{round}(c \cdot 1.4^n)</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:1em;vertical-align:-0.25em;" class="strut"></span><span style="margin-right:0.10764em;" class="mord mathnormal">f</span><span class="mopen">(</span><span class="mord mathnormal">c</span><span class="mpunct">,</span><span style="margin-right:0.16666666666666666em;" class="mspace"></span><span class="mord mathnormal">n</span><span class="mclose">)</span><span style="margin-right:0.2777777777777778em;" class="mspace"></span><span class="mrel">=</span><span style="margin-right:0.2777777777777778em;" class="mspace"></span></span><span class="base"><span style="height:1em;vertical-align:-0.25em;" class="strut"></span><span class="mord"><span class="mord mathrm">r</span><span class="mord mathrm">o</span><span class="mord mathrm">u</span><span class="mord mathrm">n</span><span class="mord mathrm">d</span></span><span class="mopen">(</span><span class="mord mathnormal">c</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span><span class="mbin">⋅</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span></span><span class="base"><span style="height:1em;vertical-align:-0.25em;" class="strut"></span><span class="mord">1</span><span class="mord">.</span><span class="mord"><span class="mord">4</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span style="height:0.664392em;" class="vlist"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;" class="pstrut"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></p>
-<p>where</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>c</mi><mo separator="true">,</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mi mathvariant="normal">r</mi><mi mathvariant="normal">o</mi><mi mathvariant="normal">u</mi><mi mathvariant="normal">n</mi><mi mathvariant="normal">d</mi></mrow><mo stretchy="false">(</mo><mi>c</mi><mo>⋅</mo><mn>1.</mn><msup><mn>4</mn><mi>n</mi></msup><mo stretchy="false">)</mo></mrow>f(c, n) = \mathrm{round}(c \cdot 1.4^n)
+</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:1em;vertical-align:-0.25em;" class="strut"></span><span style="margin-right:0.10764em;" class="mord mathnormal">f</span><span class="mopen">(</span><span class="mord mathnormal">c</span><span class="mpunct">,</span><span style="margin-right:0.16666666666666666em;" class="mspace"></span><span class="mord mathnormal">n</span><span class="mclose">)</span><span style="margin-right:0.2777777777777778em;" class="mspace"></span><span class="mrel">=</span><span style="margin-right:0.2777777777777778em;" class="mspace"></span></span><span class="base"><span style="height:1em;vertical-align:-0.25em;" class="strut"></span><span class="mord"><span class="mord mathrm">r</span><span class="mord mathrm">o</span><span class="mord mathrm">u</span><span class="mord mathrm">n</span><span class="mord mathrm">d</span></span><span class="mopen">(</span><span class="mord mathnormal">c</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span><span class="mbin">⋅</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span></span><span class="base"><span style="height:1em;vertical-align:-0.25em;" class="strut"></span><span class="mord">1</span><span class="mord">.</span><span class="mord"><span class="mord">4</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span style="height:0.7143919999999999em;" class="vlist"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;" class="pstrut"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></span></p><p>where</p>
 <p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow>c</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:0.43056em;vertical-align:0em;" class="strut"></span><span class="mord mathnormal">c</span></span></span></span> - base cost (1000 for Scientist and 1500 for security)</p>
 <p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>n</mi></mrow>n</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:0.43056em;vertical-align:0em;" class="strut"></span><span class="mord mathnormal">n</span></span></span></span> - number of NPCs (of whichever type you're buying) that you already have</p>
 <p>In this provided function, it's raising 1.4 (the scaling factor / growth rate) to the <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>n</mi></mrow>n</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:0.43056em;vertical-align:0em;" class="strut"></span><span class="mord mathnormal">n</span></span></span></span> and then multiplying it by <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow>c</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:0.43056em;vertical-align:0em;" class="strut"></span><span class="mord mathnormal">c</span></span></span></span> followed by rounding it to a whole number</p>
 <p>Think of <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>c</mi></mrow>c</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:0.43056em;vertical-align:0em;" class="strut"></span><span class="mord mathnormal">c</span></span></span></span> as the base cost,<br>
 and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mn>1.</mn><msup><mn>4</mn><mi>n</mi></msup></mrow>1.4^n</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:0.664392em;vertical-align:0em;" class="strut"></span><span class="mord">1</span><span class="mord">.</span><span class="mord"><span class="mord">4</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span style="height:0.664392em;" class="vlist"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;" class="pstrut"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span> as the inflation multiplier that increases the price each time you buy another one.</p>
-<h1 class="toc-header" id="npc-behavior"> NPC Behavior</h1>
+<p>The total cost of buying <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mi>n</mi></mrow>n</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:0.43056em;vertical-align:0em;" class="strut"></span><span class="mord mathnormal">n</span></span></span></span> NPCs:</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mrow><mtext>total</mtext><mo stretchy="false">(</mo><mi>c</mi><mo separator="true">,</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mi mathvariant="normal">r</mi><mi mathvariant="normal">o</mi><mi mathvariant="normal">u</mi><mi mathvariant="normal">n</mi><mi mathvariant="normal">d</mi></mrow><mrow><mo fence="true">(</mo><mi>c</mi><mo>⋅</mo><mfrac><mrow><mn>1.</mn><msup><mn>4</mn><mi>n</mi></msup><mo>−</mo><mn>1</mn></mrow><mrow><mn>1.4</mn><mo>−</mo><mn>1</mn></mrow></mfrac><mo fence="true">)</mo></mrow></mrow>\text{total}(c, n) = \mathrm{round}\left(c \cdot \frac{1.4^n - 1}{1.4 - 1}\right)
+</math></span><span aria-hidden="true" class="katex-html"><span class="base"><span style="height:1em;vertical-align:-0.25em;" class="strut"></span><span class="mord text"><span class="mord">total</span></span><span class="mopen">(</span><span class="mord mathnormal">c</span><span class="mpunct">,</span><span style="margin-right:0.16666666666666666em;" class="mspace"></span><span class="mord mathnormal">n</span><span class="mclose">)</span><span style="margin-right:0.2777777777777778em;" class="mspace"></span><span class="mrel">=</span><span style="margin-right:0.2777777777777778em;" class="mspace"></span></span><span class="base"><span style="height:2.40003em;vertical-align:-0.95003em;" class="strut"></span><span class="mord"><span class="mord mathrm">r</span><span class="mord mathrm">o</span><span class="mord mathrm">u</span><span class="mord mathrm">n</span><span class="mord mathrm">d</span></span><span style="margin-right:0.16666666666666666em;" class="mspace"></span><span class="minner"><span style="top:0em;" class="mopen delimcenter"><span class="delimsizing size3">(</span></span><span class="mord mathnormal">c</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span><span class="mbin">⋅</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span style="height:1.341392em;" class="vlist"><span style="top:-2.314em;"><span style="height:3em;" class="pstrut"></span><span class="mord"><span class="mord">1</span><span class="mord">.</span><span class="mord">4</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span><span class="mbin">−</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span><span class="mord">1</span></span></span><span style="top:-3.23em;"><span style="height:3em;" class="pstrut"></span><span style="border-bottom-width:0.04em;" class="frac-line"></span></span><span style="top:-3.677em;"><span style="height:3em;" class="pstrut"></span><span class="mord"><span class="mord">1</span><span class="mord">.</span><span class="mord"><span class="mord">4</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span style="height:0.664392em;" class="vlist"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;" class="pstrut"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;" class="mspace"></span><span class="mbin">−</span><span style="margin-right:0.2222222222222222em;" class="mspace"></span><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span style="height:0.7693300000000001em;" class="vlist"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span style="top:0em;" class="mclose delimcenter"><span class="delimsizing size3">)</span></span></span></span></span></span></span></p><h1 class="toc-header" id="npc-behavior"> NPC Behavior</h1>
 <p>Outlined below is the static behavior of every NPC. An NPC's lifecycle is a loop of actions and decisions an NPC will make during it's life time (from hiring to firing).</p>
-<h2 class="toc-header" id="global-steps"> Global Steps</h2>
-<ol>
-<li>IF Scientist, 75% to start Do a Test or Research.</li>
-<li>Miscellaneous Activity
-<ol>
-<li>25% Chance to <strong>Eat</strong></li>
-<li>25% Chance to <strong>Use Toilet</strong></li>
-<li>25% Chance to <strong>Go to Sleep</strong></li>
-<li>25% Chance to <strong>Roam</strong></li>
-</ol>
-</li>
-</ol>
-<h3 class="toc-header" id="do-a-test-scientists-only"> Do a Test (Scientists only)</h3>
-<ol>
-<li>Find available Class D (if a Class D is sleeping, they can't be chosen, any other tasks will be interrupted)</li>
-<li>Move to Class D's Bed (Class D moves to their Bed)</li>
-<li>Find available SCP (only 1 test per SCP allowed, the SCP will be in an occupied status for the duration of moving to the SCP and the test)</li>
-<li>Move to SCP</li>
-<li>Test on SCP (dispenses award on completion)</li>
-<li>Cleanup</li>
-</ol>
-<h3 class="toc-header" id="research-scientists-with-pending-researches-only"> Research (Scientists <em>with pending researches</em> only)</h3>
-<p>Researches are accumulated after a test. Each test a scientist completes can be researched for 1.5x it's value once.</p>
-<ol>
-<li>Find available Scientific Desk (in Lab Zone)</li>
-<li>Moving to Scientific Desk</li>
-<li>Conduct Research (dispenses award on completion)</li>
-<li>Cleanup</li>
-</ol>
-<h3 class="toc-header" id="eat-all-npcs"> Eat (All NPC's)</h3>
-<p><em><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></em></p>
-<ol>
-<li>Find available Cafeteria Table (the table will be in occupied status for duration of moving to the table and eating)</li>
-<li>Moving to Cafeteria Table</li>
-<li>Eating</li>
-<li>Cleanup</li>
-</ol>
-<h3 class="toc-header" id="use-toilet-all-npcs"> Use Toilet (All NPC's)</h3>
-<p><em><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></em></p>
-<ol>
-<li>Find available Toilet (the toilet will be in occupied status for duration of moving to the toilet and using, Class D's will use their assigned cells while other personnel will use the restroom zones)</li>
-<li>Moving to Toilet</li>
-<li>Using Toilet</li>
-<li>Cleanup</li>
-</ol>
-<h3 class="toc-header" id="go-to-sleep-all-npcs"> Go to Sleep (All NPC's)</h3>
-<p><em><u>This task will negate the NPC's mood on failure and improve NPC's mood on success.</u></em></p>
-<ol>
-<li>Find available Bed (the bed will be in occupied status for duration of moving to the bed and sleeping, Class D's will use their assigned cells while other personnel will use the personnel quarters zones)</li>
-<li>Moving to Bed</li>
-<li>Sleeping</li>
-<li>Cleanup</li>
-</ol>
-<h3 class="toc-header" id="roam-all-npcs"> Roam (All NPC's)</h3>
-<ol>
-<li>Find roam point (a random floor tile is selected)</li>
-<li>Moving to Roam Point</li>
-<li>Cleanup</li>
-</ol>
+<p>// for braden to do when behavior trees are implemented</p>
