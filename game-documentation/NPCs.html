@@ -2,16 +2,16 @@
 title: NPCs
 description: 
 published: true
-date: 2025-07-14T20:29:57.782Z
+date: 2025-07-14T20:45:00.788Z
 tags: 
 editor: ckeditor
 dateCreated: 2024-12-11T03:15:43.217Z
 -->
 
-<h1>NPCs</h1>
+<h1 class="toc-header" id="npcs"> NPCs</h1>
 <p><strong>NPCs (non-player character)s</strong> in SCP Architect X serve many functions for your foundation.</p>
 <p><strong>NPCs are meant to be predictable, and have limited random properties or decisions unless explicitly stated</strong>.</p>
-<h2>Current NPCs</h2>
+<h2 class="toc-header" id="current-npcs"> Current NPCs</h2>
 <p>This is a list of current NPCs within the game, their function, and cost to hire.</p>
 <figure class="table">
   <table>
@@ -39,7 +39,7 @@ dateCreated: 2024-12-11T03:15:43.217Z
     </tbody>
   </table>
 </figure>
-<h2>NPC Metrics</h2>
+<h2 class="toc-header" id="npc-metrics"> NPC Metrics</h2>
 <p>NPCs have 3 major metrics, <strong>Bathroom, Hunger, &amp; Energy.</strong></p>
 <figure class="table">
   <table>
@@ -63,14 +63,14 @@ dateCreated: 2024-12-11T03:15:43.217Z
     </tbody>
   </table>
 </figure>
-<p>You view your overall NPC metrics by visiting the <a href="https://wikix.scparchitect.com/en/game-documentation/foundation-management">Foundation Management</a> tab.</p>
-<h2>NPC Prices</h2>
+<p>You view your overall NPC metrics by visiting the <a class="is-internal-link is-valid-page" href="/en/game-documentation/foundation-management">Foundation Management</a> tab.</p>
+<h2 class="toc-header" id="npc-prices"> NPC Prices</h2>
 <p>The cost of hiring scientists and security grows exponentially as you hire.&nbsp;</p>
 <ol>
   <li>The base cost for scientists is <strong>$1000</strong></li>
   <li>The base cost for security is <strong>$1500</strong></li>
 </ol>
-<h3>Math</h3>
+<h3 class="toc-header" id="math"> Math</h3>
 <p>The prices for NPC's are determined by this</p>
 <p>f(c,n)=round(c⋅1.4n)f(c, n) = \mathrm{round}(c \cdot 1.4^n) f(c,n)=round(c⋅1.4n)</p>
 <p>where</p>
@@ -80,6 +80,6 @@ dateCreated: 2024-12-11T03:15:43.217Z
 <p>Think of ccc as the base cost,<br>and 1.4n1.4^n1.4n as the inflation multiplier that increases the price each time you buy another one.</p>
 <p>The total cost of buying nnn NPCs:</p>
 <p>total(c,n)=round(c⋅1.4n−11.4−1)\text{total}(c, n) = \mathrm{round}\left(c \cdot \frac{1.4^n - 1}{1.4 - 1}\right) total(c,n)=round(c⋅1.4−11.4n−1​)</p>
-<h1>NPC Behavior</h1>
+<h1 class="toc-header" id="npc-behavior"> NPC Behavior</h1>
 <p>Outlined below is the static behavior of every NPC. An NPC's lifecycle is a loop of actions and decisions an NPC will make during it's life time (from hiring to firing).</p>
 <p>// for braden to do when behavior trees are implemented</p>
