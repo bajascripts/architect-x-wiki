@@ -2,12 +2,13 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-07-05T18:39:00.532Z
+date: 2025-07-19T17:36:30.768Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
-# v1.4.16 | 2025-07-19
+
+# v1.5.0 | 2025-07-19
 
 ## New Content
 - SCP 010
