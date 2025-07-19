@@ -7,6 +7,30 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.16 | 2025-07-19
+
+## New Content
+- SCP 010
+- SCP 025
+- SCP 099
+- SCP 1025
+- Premium Elevated Pack
+
+## Changes
+- NPC Limits adjusted, and added into a research tree (they will be expanded again).
+- Level scaling lowered, speeding up progression of levels, this will be further increased as the research tree expands.
+- Increased overall profit
+- Lowered
+
+## Fixes
+- Maintenance pack fixed (thanks Dav)
+- Temp removed the auto creation of new base when you have non
+- Fixed some errors in linking
+- Fixed an issue where you could enter linking mode on someone else's base
+- Fixed dialog showing up while on other people's base
+- Opened up the pathfinding for Blast Door
+- Misc Fixes
+
 # v1.4.14 | 2025-07-19
 
 - Floors no longer required for NPCs
