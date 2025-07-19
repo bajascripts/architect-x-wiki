@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.4.14 | 2025-07-19
+
+- Floors no longer required for NPCs
+- Fixed a loading issue with intro
+- Game autoloads in a new tycoon when non are created
+
 # v1.4.11 | 2025-07-14
 
 - Added SCP Exposure in NPC Status page
