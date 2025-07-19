@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-07-19T17:36:30.768Z
+date: 2025-07-19T17:37:07.581Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
@@ -21,7 +21,8 @@ dateCreated: 2025-05-04T06:27:06.560Z
 - NPC Limits adjusted, and added into a research tree (they will be expanded again).
 - Level scaling lowered, speeding up progression of levels, this will be further increased as the research tree expands.
 - Increased overall profit
-- Lowered
+- Lowered cooldown/testing time for SCPs
+
 
 ## Fixes
 - Maintenance pack fixed (thanks Dav)
