@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.5.2 | 2025-07-20
+
+- Adjusted npc server timings to improve performance
+
 
 # v1.5.0 | 2025-07-19
 
