@@ -7,6 +7,18 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.5.4 | 2025-07-26
+
+## Updates
+- New Engineering & Technical Staff
+- New Generators and Power Requirements
+- New ECHO Build Skin
+## Fixes
+- Data saving fixes
+- Data session lock improvements
+- Deletion Fixes
+- Pathfinding Fixes
+
 # v1.5.2 | 2025-07-20
 
 - Adjusted npc server timings to improve performance
