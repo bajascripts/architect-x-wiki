@@ -2,11 +2,12 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-07-19T17:45:39.953Z
+date: 2025-07-27T16:57:36.998Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+
 # v1.7.0 | 2025-07-27
 
 - UI Spelling Fixes
@@ -17,7 +18,7 @@ dateCreated: 2025-05-04T06:27:06.560Z
 - Elevated Pack Fixes
 - Allow Collisions gamepass now applies to Decor/Furnishing/SCP
 
-# v1.5.4 | 2025-07-26
+# v1.6.0 | 2025-07-26
 
 ## Updates
 - New Engineering & Technical Staff
