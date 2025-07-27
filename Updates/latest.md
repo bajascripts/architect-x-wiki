@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.8.0 | 2025-07-27
+
+- When calculating unpowered objects, objects closest to generators are prioritized to receive power
+- When a scientist dies to an SCP, the SCP is sent in the notification.
+- When a path to an SCP succeeds, it clears any old notifications about pathfinding automatically. This also applies to other stations such as tables or beds.
+
 
 # v1.7.0 | 2025-07-27
 
