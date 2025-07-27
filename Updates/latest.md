@@ -7,6 +7,16 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.7.0 | 2025-07-27
+
+- UI Spelling Fixes
+- UI Performance Improvements
+- Performance Improvements
+- Server Performance Improvements
+- Echo Pack fixes
+- Elevated Pack Fixes
+- Allow Collisions gamepass now applies to Decor/Furnishing/SCP
+
 # v1.5.4 | 2025-07-26
 
 ## Updates
