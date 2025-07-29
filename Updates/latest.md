@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.8.1 | 2025-07-29
+
+- Data Store Improvements
+
 # v1.8.0 | 2025-07-27
 
 - When calculating unpowered objects, objects closest to generators are prioritized to receive power
