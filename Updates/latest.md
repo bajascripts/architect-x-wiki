@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.2 | 2025-08-02
+
+- Added debug show pathfinding grid
+   - Enable debug mode and its a button in the build editor
+   - Not compatible on mobile
+- Fixed "wall" text
+
 # v1.9.1 | 2025-08-02
 
 - Fixed Research
