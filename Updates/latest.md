@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.6 | 2025-08-02
+
+- Converted some scripts to native
+- Removed debug parts
+
 # v1.9.3 | 2025-08-02
 
 - Fixed wall-walking NPCs
