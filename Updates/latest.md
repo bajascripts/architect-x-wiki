@@ -7,6 +7,27 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.0 | 2025-08-02
+
+## Updates
+- New Light Zone Pack
+- New Legacy Heavy Zone Pack
+   - Purchasable with in-game money or Robux
+- New NPC Pathfinding v4
+   - Huge performance improvements
+   - NPCs no longer roam
+      - Class Ds will sleep if nothing to do
+      - Scientists will research at a desk if nothing to do
+      - Security will patrol place patrol points if nothing to do
+      - Engineers will patrol generators if nothing to do
+- Security carry guns to look extra mean
+
+## Changes / Fixes
+- Data saving fixes, rebuilt data saving system
+- Increased limits on NPCs, Objects, and Decorations.
+- Mobile improvements and fixes
+- You can skip the intro by clicking/tapping.
+
 # v1.8.1 | 2025-07-29
 
 - Data Store Improvements
