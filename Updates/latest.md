@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.3 | 2025-08-02
+
+- Fixed wall-walking NPCs
+- Fixed barriers
+- Fixed pathfinding at entrances
+
 # v1.9.2 | 2025-08-02
 
 - Added debug show pathfinding grid
