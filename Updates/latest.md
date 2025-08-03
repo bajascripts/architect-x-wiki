@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.14 | 2025-08-03
+
+- Fixed duplicate purchases of skins with money
+- Internal Adjustments
+- Added loading status when loading a base
+- Mobile sensitivity fixed
+- Mobile UI scaling adjustments
+
 # v1.9.13 | 2025-08-03
 
 - Further pathfinding fixes with diagonal starts/ends
