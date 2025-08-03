@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.13 | 2025-08-03
+
+- Further pathfinding fixes with diagonal starts/ends
+
 # v1.9.12 | 2025-08-03
 
 - Fixed attempt to index nil in shop (and other areas too)
