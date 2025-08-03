@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.9 | 2025-08-03
+
+- Rate limited pathfinding grid updates for better performance
+
 # v1.9.8 | 2025-08-03
 
 - NPC Fixes
