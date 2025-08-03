@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.11 | 2025-08-03
+
+- Fixed an error in the store
+- Diagonal pathfinding fixes
+
 # v1.9.10 | 2025-08-03
 
 - Fixed an error in the store
