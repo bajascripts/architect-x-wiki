@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.7 | 2025-08-03
+
+- Fixed Weird ECZ Pack lighting
+- Switched to new datastore wrapper (ProfileStore)
+- Additional performance improvements for NPCs
+- Added path blocked error icons to individual objects
+
 # v1.9.6 | 2025-08-02
 
 - Converted some scripts to native
