@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.15 | 2025-08-03
+
+- Fixed potential store issue
+- Game-mode backend
+- Other improvements
+
 # v1.9.14 | 2025-08-03
 
 - Fixed duplicate purchases of skins with money
