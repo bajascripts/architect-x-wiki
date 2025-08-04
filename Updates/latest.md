@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.17 | 2025-08-04
+
+- Fixed data loading issues
+- Fixed internal server errors
+- Better errors handling
+
 # v1.9.16 | 2025-08-04
 
 - Competition Game Mode
