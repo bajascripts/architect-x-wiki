@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.16 | 2025-08-04
+
+- Competition Game Mode
+
 # v1.9.15 | 2025-08-03
 
 - Fixed potential store issue
