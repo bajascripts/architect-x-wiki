@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.18 | 2025-08-05
+
+- Script crash fix
+- Game modes not showing up on load screen fixed
+- Less analytics spam
+
 # v1.9.17 | 2025-08-04
 
 - Fixed data loading issues
