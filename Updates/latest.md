@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.19 | 2025-08-06
+
+- Potential fix to data load issues
+- Better error handlers
+
 # v1.9.18 | 2025-08-05
 
 - Script crash fix
