@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.20 | 2025-08-06
+
+- Competition game mode edits and auto-lockout
+- Money has been increased in the store and a new package added.
+
 # v1.9.19 | 2025-08-06
 
 - Potential fix to data load issues
