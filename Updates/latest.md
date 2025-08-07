@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.9.21 | 2025-08-07
+
+- Smarter pathfinding failure handling
+
 # v1.9.20 | 2025-08-06
 
 - Competition game mode edits and auto-lockout
