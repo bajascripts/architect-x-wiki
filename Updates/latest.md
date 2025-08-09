@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.10.1 | 2025-08-09
+
+- Fixed wall aligned decor alignments
+- Fixed random base unloading
+- Fixed internal ECS errors
+
 # v1.10.0 | 2025-08-09
 
 ## Updates
