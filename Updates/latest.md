@@ -7,6 +7,24 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.10.0 | 2025-08-09
+
+## Updates
+- New Decorations
+ - Electrical Box
+ - Camera
+ - Floor Tape
+ - Wet Floor Sign
+ - Vent
+ - Sofa
+   - NOTE: The competition game-mode will restrict these new items, to ensure fairness in the competition.
+## Changes & Fixes
+- Re-written replication system
+- Performance improvements
+- Legacy HCZ Pack Fixes for multiple floors
+- Shop rebalances (more money per robux)
+- Fixed object display names showing on floors and other objects not meant to be shown
+
 # v1.9.21 | 2025-08-07
 
 - Smarter pathfinding failure handling
