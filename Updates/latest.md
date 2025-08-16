@@ -7,6 +7,23 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.11.0 | 2025-08-16
+
+## Updates
+- New Medical Staff and Reseraches
+- New MRI machine
+    - Heals all SCP exposures
+- New Medical Stretcher
+- New Bed Dividers Decoration
+## Fixes & Changes
+- Fixes object positions
+- NPCs now walk slowly when needs not meant but will still do their important tasks such as testing.
+- Improved NPC performance
+- Enhanced NPCs with dialogs
+- Increased generator production to be more consistent
+- Slightly lowered leveling speed
+- UI Fixes & Improvements
+
 # v1.10.1 | 2025-08-09
 
 - Fixed wall aligned decor alignments
