@@ -7,7 +7,7 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
-# v1.11.2 | 2025-08-24
+# v1.12.0 | 2025-08-24
 
 ## Updates
 - High Zone Skin
