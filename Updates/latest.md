@@ -7,6 +7,18 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.11.2 | 2025-08-24
+
+## Updates
+- High Zone Skin
+- SCP 205
+## Fixes and Changes
+- Added tutorial skip confirmation
+- Added restart tutorial button to management page
+- Increased level progression back to where it was before
+- Added change log to main menu
+- Fixed medical uniform
+
 # v1.11.0 | 2025-08-16
 
 ## Updates
