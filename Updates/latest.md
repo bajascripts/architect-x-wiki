@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.2 | 2025-08-25
+
+- Fixed SCP 205 NPC issues
+- Fixed high zone gate
+- Added sounds to doors in high zone skin
+- Added sounds to doors in neo core skin
+
 # v1.12.0 | 2025-08-24
 
 ## Updates
