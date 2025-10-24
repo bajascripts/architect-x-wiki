@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.5 | 2025-10-24
+
+- New Bunker Pack
+- 50% Sale Weekend
+
 # v1.12.2 | 2025-08-25
 
 - Fixed SCP 205 NPC issues
