@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.9 | 2026-01-18
+
+- Fixed not being able to purchase bombs in store
+- Performance improvements to npcsMoveToTargets
+
 # v1.12.8 | 2026-01-18
 
 - Upgraded internal packages for ECS (might be bugs)
