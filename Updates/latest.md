@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.8 | 2026-01-18
+
+- Upgraded internal packages for ECS (might be bugs)
+
 # v1.12.7 | 2026-01-18
 
 - Added caching for get object issues function call
