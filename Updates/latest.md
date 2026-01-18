@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.11 | 2026-01-18
+
+- Pathfinding grid caulcations are throttled over multiple frames
+    - If NPC debug is enabled, the ms time is displayed
+
 # v1.12.10 | 2026-01-18
 
 - Store update to be relative to next SCP purchase
