@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.7 | 2026-01-18
+
+- Added caching for get object issues function call
+- Updated "Update Status" UI to use roblox configs
+
 # v1.12.5 | 2025-10-24
 
 - New Bunker Pack
