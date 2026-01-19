@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.12 | 2026-01-19
+
+- Added optional video ad to redeem cash
+
 # v1.12.11 | 2026-01-18
 
 - Pathfinding grid caulcations are throttled over multiple frames
