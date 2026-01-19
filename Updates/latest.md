@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.15 | 2026-01-19
+
+- Fixed unprocessed error when moving/deleting
+
 # v1.12.14 | 2026-01-19
 
 - NPC Optmizations continued
