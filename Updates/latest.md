@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.14 | 2026-01-19
+
+- NPC Optmizations continued
+- NPC level of detail system to throttle far away NPCs
+- High number of NPCs are now throttled
+
 # v1.12.13 | 2026-01-19
 
 - NPC queries are now spread across multiple frames resulting in much better performance
