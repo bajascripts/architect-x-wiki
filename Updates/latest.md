@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.19 | 2026-01-20
+
+- Added daily limit to ad reward
+
 # v1.12.18 | 2026-01-20
 
 - Fixed doctors getting stuck on stretchers
