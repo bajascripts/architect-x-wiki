@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.16 | 2026-01-20
+
+- A handful of performance improvements to NPC tasks.
+- NPCs will now resolve their needs earlier if they have nothing else to do.
+
 # v1.12.15 | 2026-01-19
 
 - Fixed unprocessed error when moving/deleting
