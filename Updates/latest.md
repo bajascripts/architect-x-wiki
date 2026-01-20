@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.18 | 2026-01-20
+
+- Fixed doctors getting stuck on stretchers
+- Adjusted shop values
+
 # v1.12.17 | 2026-01-20
 
 - Build camera now starts based on last player position.
