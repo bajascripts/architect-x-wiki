@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.17 | 2026-01-20
+
+- Build camera now starts based on last player position.
+- Fixed regular personnel using Class D toilet.
+- Improved tutorial clarity with in-world outlines.
+- Fixed NPC status bars being out of bounds.
+- Improved Staff UI speed by using virtualized lists and throttling expensive need average calculation.
+
 # v1.12.16 | 2026-01-20
 
 - A handful of performance improvements to NPC tasks.
