@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.22 | 2026-01-21
+
+- Added auto load new save when you have no saves
+- Relaxes save name requirements
+
 # v1.12.21 | 2026-01-21
 
 - Fixed not being able to buy skins
