@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.12.21 | 2026-01-21
+
+- Fixed not being able to buy skins
+- Fixed random UI error
+
 # v1.12.20 | 2026-01-21
 
 - New global undo/redo system (works with place,delete,move)
